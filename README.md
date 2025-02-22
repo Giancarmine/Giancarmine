@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I am Carmine Cuofano, an I&O Platform Engineer at Holcim EMEA Digital Center. I have over 8 years of experience in the IT industry, with a focus on cloud computing, DevOps, and security.<br><br>I'm passionate about using technology to solve business problems. I am also a strong advocate for open source software and continuous improvement.<br><br>Here are some of the key highlights from my LinkedIn profile:<br><br>- 8+ years of experience in the IT industry ad DevOps Java Developer<br>- Focus on cloud computing, DevOps, and passionate about using technology to solve business problems<br>- Strong advocate for open source software and continuous improvement<br>- Currently working as an I&O Platform Engineer at Holcim EMEA Digital Center</p>
+<p align="left">I am Carmine Cuofano, an I&O Platform Engineer at Holcim EMEA Digital Center. I have over 8 years of experience in the IT industry, with a focus on cloud computing, DevOps, and security.<br><br>I'm passionate about using technology to solve business problems. I am also a strong advocate for open source software and continuous improvement.<br><br>Here are some of the key highlights from my LinkedIn profile:<br><br>- 9+ years of experience in the IT industry ad DevOps Java Developer<br>- Focus on cloud computing, DevOps, and passionate about using technology to solve business problems<br>- Strong advocate for open source software and continuous improvement<br>- Currently working as an I&O Platform Engineer at Holcim EMEA Digital Center</p>
 
 ###
 

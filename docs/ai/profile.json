@@ -4,11 +4,14 @@
     "name": "Carmine Cuofano",
     "github": "Giancarmine",
     "handleNote": "Giancarmine ends in 'mine'; 'giancarme' is not the account",
+    "headline": "I&O Platform Engineer at Holcim EMEA Digital Center",
     "location": "Madrid, Spain",
+    "linkedinLocation": "Greater Madrid Metropolitan Area",
     "role": "I&O Platform Engineer",
     "employer": "Holcim EMEA Digital Center",
     "githubCompany": "eits-lafargeholcim",
-    "bio": "Confused DevOps developer",
+    "githubBio": "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer",
+    "tagline": "Confused DevOps developer",
     "experienceYears": "8+",
     "website": "https://giancarmine.github.io/",
     "publicLinks": {
@@ -19,6 +22,41 @@
       "devto": "https://dev.to/el_giancar"
     }
   },
+  "certifications": [
+    {
+      "name": "Gemini for Technical Teams",
+      "issuer": "Skillsoft",
+      "issued": "2025-03"
+    },
+    {
+      "name": "CompTIA IT Fundamentals: CIA Triad",
+      "issuer": "Skillsoft",
+      "issued": "2024-11"
+    },
+    {
+      "name": "Ansible for DevOps: Ansible Basics",
+      "issuer": "Skillsoft",
+      "issued": "2023-02"
+    },
+    {
+      "name": "Hadoop and Scala badges",
+      "issuer": "IBM",
+      "issued": "2017-09",
+      "details": [
+        "Hadoop Administration - Level 1",
+        "Hadoop Data Access - Level 1",
+        "Hadoop Foundations - Level 1",
+        "Hadoop Foundations - Level 2",
+        "Hadoop Programming - Level 1",
+        "Scala Programming for Data Science - Level 1"
+      ]
+    },
+    {
+      "name": "GCP Essentials",
+      "issuer": "Qwiklabs",
+      "issued": null
+    }
+  ],
   "focus": [
     "cloud computing",
     "DevOps",

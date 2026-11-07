@@ -14,7 +14,7 @@ Last reviewed: **2026-11-08**.
 | Name | Carmine Cuofano |
 | GitHub | [`@Giancarmine`](https://github.com/Giancarmine) |
 | Handle note | It is `Giancarmine` (ends in **mine**). `giancarme` is not the account and returns 404. |
-| Location | Madrid, Spain |
+| Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
 | Role | I&O Platform Engineer at **Holcim EMEA Digital Center** |
 | GitHub company field | `@eits-lafargeholcim` |
 | Bio | "Confused DevOps developer" |
@@ -57,6 +57,17 @@ AWS, Docker, Kubernetes, Terraform, Ansible, Vagrant, Kotlin, Ktor, Flutter, Dar
 Java, Spring, Gradle, Cucumber, Node.js, Express, Python, TypeScript, GitHub, GitLab,
 Linux, SSH, Bash, CMake, Grafana, Prometheus, SQLite, MySQL, PostgreSQL, Oracle,
 SQL Server, MongoDB, Storybook.
+
+## Certifications (public LinkedIn badges)
+
+- **Gemini for Technical Teams** — Skillsoft, March 2025.
+- **CompTIA IT Fundamentals: CIA Triad** — Skillsoft, November 2024.
+- **Ansible for DevOps: Ansible Basics** — Skillsoft, February 2023.
+- **IBM Hadoop and Scala badges** — Hadoop Administration, Data Access, Foundations (Levels 1–2), Programming (Level 1), and Scala Programming for Data Science, September 2017.
+- **GCP Essentials** — Qwiklabs.
+
+These are badges listed on LinkedIn. Describe them exactly as the issuer does; do not
+inflate them into formal certifications.
 
 ## Active projects
 
@@ -127,9 +138,10 @@ Derived from the repository conventions:
 
 ## Open questions
 
-- The README says both "8+ years" and "9+ years" in different places. Use **8+ years**
-  unless the owner confirms a precise figure.
-- Employer naming varies between "Holcim EMEA Digital Center" (README) and
+- Employer naming varies between "Holcim EMEA Digital Center" (README and LinkedIn) and
   `@eits-lafargeholcim` (GitHub company). Keep both, in their respective contexts.
+- LinkedIn hides the full "About" text and detailed experience from guests. This file
+  reflects the public headline, company, location, and certifications; update it if the
+  owner provides the full summary.
 - `open-cv` is currently an empty repository; the public CV source is not available.
 - Spoken languages are not stated publicly; do not assume them.

@@ -21,10 +21,12 @@ This repository is **not a software project**. It is the GitHub profile reposito
 | Name | Carmine Cuofano |
 | GitHub | [`@Giancarmine`](https://github.com/Giancarmine) — the handle ends in **mine**, not **me** |
 | Role | I&O Platform Engineer at Holcim EMEA Digital Center |
+| Experience | 8+ years in IT |
 | GitHub company field | `@eits-lafargeholcim` |
-| Location | Madrid, Spain |
+| Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
 | Website | <https://giancarmine.github.io/> |
-| Bio | "Confused DevOps developer" |
+| Bio | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
+| Certifications | Skillsoft badges in Ansible for DevOps, CompTIA IT Fundamentals, and Gemini for Technical Teams |
 | Focus | Cloud, DevOps, platform engineering, security, and open source |
 
 Full context: [`docs/ai/context.md`](docs/ai/context.md).

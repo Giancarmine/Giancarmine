@@ -1,0 +1,23 @@
+---
+description: Public-safe context for the Giancarmine GitHub profile repository
+globs: ["**/*"]
+alwaysApply: true
+---
+
+# Giancarmine profile repository
+
+Canonical guidance: [`../../AGENTS.md`](../../AGENTS.md). Read it first; this rule is a
+short pointer.
+
+This repository is the **GitHub profile repository** of Carmine Cuofano
+([@Giancarmine](https://github.com/Giancarmine)). `README.md` is the only rendered
+product; nothing is built or deployed here.
+
+- The correct handle is `Giancarmine` (ends in **mine**); `giancarme` is not the account.
+- The repository is public: no secrets, private data, or private network details.
+- Preserve the profile's HTML, badges, and stats cards; do not redesign it.
+- Do not invent facts. Use [`docs/ai/context.md`](../../docs/ai/context.md).
+- Update [`docs/ai/`](../../docs/ai/README.md) when a fact changes.
+- Validate links and HTML; run `git diff --check`.
+
+For work in another repository, read that repository's own `AGENTS.md` first.

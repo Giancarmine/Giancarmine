@@ -1,0 +1,105 @@
+{
+  "lastReviewed": "2026-11-08",
+  "identity": {
+    "name": "Carmine Cuofano",
+    "github": "Giancarmine",
+    "handleNote": "Giancarmine ends in 'mine'; 'giancarme' is not the account",
+    "location": "Madrid, Spain",
+    "role": "I&O Platform Engineer",
+    "employer": "Holcim EMEA Digital Center",
+    "githubCompany": "eits-lafargeholcim",
+    "bio": "Confused DevOps developer",
+    "experienceYears": "8+",
+    "website": "https://giancarmine.github.io/",
+    "publicLinks": {
+      "linkedin": "https://www.linkedin.com/in/carmine-cuofano-271417124/",
+      "x": "https://twitter.com/el_giancar",
+      "telegram": "https://t.me/Giancarmine",
+      "medium": "https://medium.com/@giancarmine.cuofano",
+      "devto": "https://dev.to/el_giancar"
+    }
+  },
+  "focus": [
+    "cloud computing",
+    "DevOps",
+    "platform engineering",
+    "security",
+    "open source",
+    "continuous improvement"
+  ],
+  "stack": {
+    "cloud": ["AWS"],
+    "containers": ["Docker", "Kubernetes", "Docker Compose"],
+    "iac": ["Terraform", "Ansible", "Vagrant"],
+    "languages": ["Kotlin", "Java", "TypeScript", "JavaScript", "Python", "Dart", "Bash", "C", "C++", "PHP", "C#"],
+    "backend": ["Ktor", "Spring Boot", "Node.js", "Express"],
+    "frontendMobile": ["Flutter", "Android", "Angular", "Storybook"],
+    "build": ["Gradle", "CMake"],
+    "testing": ["Cucumber", "ktlint", "JUnit"],
+    "data": ["PostgreSQL", "MySQL", "SQL Server", "Oracle", "MongoDB", "SQLite"],
+    "observability": ["Grafana", "Prometheus"],
+    "platforms": ["Linux", "GitHub", "GitLab", "GitHub Actions", "Render", "Heroku"],
+    "tools": ["SSH", "n8n"]
+  },
+  "activeRepositories": [
+    "ansible-DRP",
+    "homelab",
+    "rock-paper-scissors-lizard-spock-bot",
+    "ktor_phrases",
+    "carmine-cuofano-revolut-test",
+    "extraday-backend",
+    "MediterraneApp",
+    "full-swapi-test",
+    "http-autocaller-bot",
+    "ligogram-bot",
+    "n8n-workflow",
+    "TimeFighter_KotlinApp",
+    "beatbox-app",
+    "HerokuKtorRandomSrv",
+    "giancarmine.github.io",
+    "open-cv",
+    "Giancarmine"
+  ],
+  "workingStyle": {
+    "documentationFirst": true,
+    "smallFocusedChanges": true,
+    "evidenceOverClaims": true,
+    "securityIsAGate": true,
+    "publicReadyByDefault": true,
+    "preferDeclarativeWherePractical": true,
+    "preferStandardTools": true,
+    "noSecretsInGit": true
+  },
+  "conventions": {
+    "branchPrefixes": ["feat/", "fix/", "test/", "docs/", "chore/", "security/"],
+    "commitStyle": "imperative mood, under ~72 characters, Conventional Commit prefixes optional",
+    "noDirectPushToMain": true,
+    "kotlin": {
+      "indent": 4,
+      "lineEndings": "LF",
+      "formatter": "ktlint",
+      "versionsIn": "gradle/libs.versions.toml"
+    },
+    "yaml": {
+      "indent": 2,
+      "linters": ["yamllint", "ansible-lint"]
+    }
+  },
+  "aiEntryPoints": {
+    "canonical": "AGENTS.md",
+    "llmIndex": "llms.txt",
+    "context": "docs/ai/context.md",
+    "repositories": "docs/ai/repositories.md",
+    "conventions": "docs/ai/conventions.md",
+    "glossary": "docs/ai/glossary.md",
+    "copilot": ".github/copilot-instructions.md",
+    "claude": "CLAUDE.md",
+    "gemini": "GEMINI.md",
+    "cursor": ".cursor/rules/profile.mdc"
+  },
+  "notes": [
+    "This repository is a GitHub profile repository; README.md is the only rendered product.",
+    "Archived repositories are historical learning projects, not current best practice.",
+    "If a project repository has its own AGENTS.md, that file takes precedence."
+  ]
+}

@@ -1,0 +1,28 @@
+# Carmine Cuofano (@Giancarmine)
+
+> Public-safe context for AI agents about Carmine Cuofano, an I&O Platform Engineer in
+> Madrid focused on cloud, DevOps, platform engineering, and security. This repository is
+> his GitHub profile; it is not a software project.
+
+The canonical agent contract is [AGENTS.md](AGENTS.md). Detailed context is in
+[docs/ai/](docs/ai/README.md).
+
+## Owner context
+
+- [Who he is and how he works](docs/ai/context.md): role, location, expertise, working style, and communication preferences.
+- [Machine-readable profile](docs/ai/profile.json): the same facts as structured JSON.
+- [Glossary](docs/ai/glossary.md): terms used across the projects.
+
+## Repositories
+
+- [Repository catalog](docs/ai/repositories.md): every repository, public and private, grouped by status and purpose.
+- [rock-paper-scissors-lizard-spock-bot](https://github.com/Giancarmine/rock-paper-scissors-lizard-spock-bot): Kotlin/Ktor Telegram bot with CI, health probes, and a Render deployment.
+- [ktor_phrases](https://github.com/Giancarmine/ktor_phrases): Kotlin/Ktor emoji-and-phrase REST API with Docker and CI.
+- [ansible-DRP](https://github.com/Giancarmine/ansible-DRP): Ansible playbooks that provision a fresh Ubuntu developer machine.
+- `homelab` (private repository): documentation-first a virtualization platform, home automation platform, and network lab.
+
+## Engineering conventions
+
+- [Conventions](docs/ai/conventions.md): branches, commits, Kotlin/YAML style, testing, and security habits.
+- [Profile README](README.md): the human-facing GitHub profile.
+- [License](LICENSE): MIT.

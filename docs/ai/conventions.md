@@ -53,8 +53,9 @@ Do not push directly to `main`. Use a branch and a pull request.
 This differs per repository; check before merging:
 
 - `rock-paper-scissors-lizard-spock-bot`: **squash-merge** after CI.
-- `homelab`: **merge commits only** (the main-branch guard recognizes
-  `Merge pull request #...`). Do not squash or rebase-merge. Delete the branch after.
+- Some repositories require **merge commits** and reject squash or rebase merges. Check
+  the repository's `CONTRIBUTING.md` or `AGENTS.md` before merging, and delete the branch
+  afterward.
 
 ## Kotlin / JVM
 

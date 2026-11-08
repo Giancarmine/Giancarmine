@@ -1,0 +1,20 @@
+# Local LinkedIn export and profile material — never commit personal data
+linkedin-export/
+linkedin-profile.pdf
+linkedin-*.pdf
+linkedin-*.zip
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

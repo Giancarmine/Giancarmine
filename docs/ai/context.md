@@ -17,7 +17,8 @@ Last reviewed: **2026-11-08**.
 | Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
 | Role | I&O Platform Engineer at **Holcim EMEA Digital Center** |
 | GitHub company field | `@eits-lafargeholcim` |
-| Bio | "Confused DevOps developer" |
+| Bio (live) | "Confused DevOps developer at @eits-lafargeholcim" |
+| Bio (proposed) | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
 | Experience | 8+ years in IT, per the profile README |
 | Website | <https://giancarmine.github.io/> |
 | LinkedIn | <https://www.linkedin.com/in/carmine-cuofano-271417124/> |
@@ -69,16 +70,16 @@ SQL Server, MongoDB, Storybook.
 These are badges listed on LinkedIn. Describe them exactly as the issuer does; do not
 inflate them into formal certifications.
 
-## Active projects
+## Selected projects
 
-The repositories that best represent current work:
+A curated selection of repositories that best represent the owner's work:
 
 1. **`ansible-DRP`** — Ansible playbooks that turn a fresh Ubuntu machine into a
    ready-to-work dev box (zsh, Docker, Kubernetes CLIs, VS Code, Topgrade). Shell,
    Vagrant, GitHub Actions, MIT.
-2. **`homelab`** — documentation-first home lab: a virtualization platform, a home-automation platform, a private alarm system
-   alarm integration, a DNS filter, Tailscale, a health-check service, Docker Compose. Private, small
-   project with a strict security and testing process.
+2. **`homelab`** — private, documentation-first home infrastructure and automation
+   project. Details are intentionally not public; read the repository's own `AGENTS.md`
+   when working there.
 3. **`rock-paper-scissors-lizard-spock-bot`** — Kotlin/Ktor Telegram bot, long polling,
    health/readiness endpoints, Render deployment, CI, ktlint, no persistence.
 4. **`ktor_phrases`** — Kotlin/Ktor REST API for emoji/phrase association using

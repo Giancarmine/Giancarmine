@@ -4,20 +4,19 @@ What each public repository is, so an agent can pick the right context instead o
 guessing from the name. Metadata was read from the GitHub API on **2026-11-08** and can
 drift; the README of each repository is authoritative.
 
-Four of the active repositories are also checked out locally under
-`/home/el_giancar/views/` on the owner's machine. A local copy may be ahead of GitHub;
+Some repositories may also be checked out locally. A local copy can be ahead of GitHub;
 when working locally, read that repository's own `AGENTS.md` and `CONTRIBUTING.md`.
 
-## Featured / active
+## Featured / selected
 
-These are the best signal for current interests and ability.
+These are the best signal for the owner's interests and ability.
 
 | Repository | Language | What it is | Notes |
 | --- | --- | --- | --- |
-| [`ansible-DRP`](https://github.com/Giancarmine/ansible-DRP) | Shell / Ansible | Playbooks that turn a fresh Ubuntu machine into a ready-to-work dev box: zsh, Docker, Kubernetes CLIs, VS Code, Topgrade. | Vagrant, GitHub Actions CI, MIT. Local copy present. |
-| `homelab` (private) | Docs / IaC | Documentation-first home lab: a virtualization platform, a home-automation platform, an alarm integration, a DNS filter, Tailscale, a health-check service, Docker Compose. | Private, small project. Strict security, testing, and ADR process. Local copy present. |
-| [`rock-paper-scissors-lizard-spock-bot`](https://github.com/Giancarmine/rock-paper-scissors-lizard-spock-bot) | Kotlin | Telegram bot for Rock–Paper–Scissors and Rock–Paper–Scissors–Lizard–Spock. | Ktor, tgbotapi, long polling, `/healthz`, `/readyz`, `/openapi.yaml`, Render deploy, ktlint, CI, MIT. Local copy present. |
-| [`ktor_phrases`](https://github.com/Giancarmine/ktor_phrases) | Kotlin | Emoji/phrase association REST API built with Ktor and `kotlinx.serialization`. | Docker, GitHub Actions, MIT. Local copy present. |
+| [`ansible-DRP`](https://github.com/Giancarmine/ansible-DRP) | Shell / Ansible | Playbooks that turn a fresh Ubuntu machine into a ready-to-work dev box: zsh, Docker, Kubernetes CLIs, VS Code, Topgrade. | Vagrant, GitHub Actions CI, MIT. |
+| `homelab` (private) | Docs / IaC | Private, documentation-first home infrastructure and automation project. | Private; details are intentionally not public. |
+| [`rock-paper-scissors-lizard-spock-bot`](https://github.com/Giancarmine/rock-paper-scissors-lizard-spock-bot) | Kotlin | Telegram bot for Rock–Paper–Scissors and Rock–Paper–Scissors–Lizard–Spock. | Ktor, tgbotapi, long polling, `/healthz`, `/readyz`, `/openapi.yaml`, Render deploy, ktlint, CI, MIT. |
+| [`ktor_phrases`](https://github.com/Giancarmine/ktor_phrases) | Kotlin | Emoji/phrase association REST API built with Ktor and `kotlinx.serialization`. | Docker, GitHub Actions, MIT. |
 | [`carmine-cuofano-revolut-test`](https://github.com/Giancarmine/carmine-cuofano-revolut-test) | Kotlin | DevOps engineer take-home test. | Do not present as production code. |
 | [`extraday-backend`](https://github.com/Giancarmine/extraday-backend) | Java | Spring Boot REST API backend with MongoDB. | Apache-2.0. |
 | [`MediterraneApp`](https://github.com/Giancarmine/MediterraneApp) | Java | Recipe API in Spring Boot. | GPL-3.0. |
@@ -106,7 +105,7 @@ These are forks or small experiments, not original work to showcase:
 - `ansible-DRP`: Ansible and YAML conventions; `ansible-lint`, `yamllint`; Vagrant-based
   verification. Do not run playbooks against real hosts without asking.
 - `homelab`: read `AGENTS.md` first. Documentation-first; security and public-release
-  gates; no WAN exposure; never edit private application state; never commit secrets.
+  gates; no WAN exposure; never commit secrets.
 - `ktor_phrases`: Kotlin/Ktor conventions; keep `libs.versions.toml` versions; Docker and
   CI must stay green.
 - `rock-paper-scissors-lizard-spock-bot`: read `AGENTS.md` first. Kotlin/Ktor/tgbotapi;

@@ -19,7 +19,16 @@ The canonical agent contract is [AGENTS.md](AGENTS.md). Detailed context is in
 - [rock-paper-scissors-lizard-spock-bot](https://github.com/Giancarmine/rock-paper-scissors-lizard-spock-bot): Kotlin/Ktor Telegram bot with CI, health probes, and a Render deployment.
 - [ktor_phrases](https://github.com/Giancarmine/ktor_phrases): Kotlin/Ktor emoji-and-phrase REST API with Docker and CI.
 - [ansible-DRP](https://github.com/Giancarmine/ansible-DRP): Ansible playbooks that provision a fresh Ubuntu developer machine.
-- `homelab` (private repository): documentation-first a virtualization platform, home automation platform, and network lab.
+- `homelab` (private repository): private home infrastructure and automation project; details are intentionally not public.
+
+## Public profiles
+
+- [LinkedIn](https://www.linkedin.com/in/carmine-cuofano-271417124/)
+- [dev.to](https://dev.to/el_giancar)
+- [Medium](https://medium.com/@giancarmine.cuofano)
+- [X / Twitter](https://twitter.com/el_giancar)
+- [Telegram](https://t.me/Giancarmine)
+- [Website](https://giancarmine.github.io/)
 
 ## Engineering conventions
 

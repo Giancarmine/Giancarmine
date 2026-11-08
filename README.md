@@ -1,7 +1,7 @@
 ###
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Giancarmine.Giancarmine&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Giancarmine.Giancarmine"  />
 </div>
 
 ###
@@ -10,10 +10,12 @@
   <a href="https://www.linkedin.com/in/carmine-cuofano-271417124/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:giancarmine.cuofano@gmail.com" target="_blank">
+  <a href="mailto:giancarmine.cuofano@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://dev.to/el_giancar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
   <a href="https://medium.com/@giancarmine.cuofano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
@@ -124,6 +126,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giancarmine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Giancarmine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Giancarmine&theme=dracula&hide_border=false&locale=en" height="200" alt="streak stats"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giancarmine&theme=dracula" height="200" alt="profile summary"  />
 </div>

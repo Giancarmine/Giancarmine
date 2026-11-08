@@ -20,13 +20,7 @@ definitions short and factual.
 
 | Term | Meaning |
 | --- | --- |
-| a virtualization platform | Open-source virtualization platform used as the homelab compute node. |
-| a home-automation OS | a home-automation platform: the operating system image that runs home automation platform. |
-| home automation platform | Home automation platform; in the homelab it runs as a VM and is an integration layer, not a life-safety system. |
-| private alarm hardware | Commercial alarm panel and sensors; the primary alarm system in the homelab. |
-| a DNS filter | Self-hosted DNS server with ad and tracker blocking. |
 | Tailscale | WireGuard-based mesh VPN used for remote access without exposing services to the WAN. |
-| a health-check service | Self-hosted health-check and status-page service. |
 | Docker Compose | Tool for defining and running multi-container Docker applications from a Compose file. |
 | Vagrant | Tool for building and managing reproducible virtual machine environments. |
 | Ansible | Agentless configuration-management and provisioning tool. |
@@ -57,7 +51,7 @@ definitions short and factual.
 | Term | Meaning |
 | --- | --- |
 | `ansible-DRP` | Ansible playbooks that provision a fresh Ubuntu machine as a developer workstation. The exact expansion of "DRP" is not documented publicly. |
-| Homelab | The owner's private, documentation-first home infrastructure project. |
+| Homelab | The owner's private home infrastructure and automation project. Details are intentionally not public. |
 | `ktor_phrases` | REST API that associates emojis with phrases. |
 | RPSLS | Rock–Paper–Scissors–Lizard–Spock, the five-move variant of the game. |
 | Long polling | Telegram update mode where the bot repeatedly requests updates instead of receiving webhooks. |

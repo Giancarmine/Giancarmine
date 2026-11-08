@@ -25,7 +25,8 @@ This repository is **not a software project**. It is the GitHub profile reposito
 | GitHub company field | `@eits-lafargeholcim` |
 | Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
 | Website | <https://giancarmine.github.io/> |
-| Bio | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
+| Bio (live) | "Confused DevOps developer at @eits-lafargeholcim" |
+| Bio (proposed) | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" — pending a GitHub token with `user` scope |
 | Certifications | Skillsoft badges in Ansible for DevOps, CompTIA IT Fundamentals, and Gemini for Technical Teams |
 | Focus | Cloud, DevOps, platform engineering, security, and open source |
 
@@ -42,7 +43,7 @@ Full context: [`docs/ai/context.md`](docs/ai/context.md).
 3. **Keep personal data minimal.** The owner's public links are already in `README.md`.
    Do not add home addresses, phone numbers, birth dates, or private emails.
 4. **Preserve the profile design.** `README.md` uses hand-written HTML, shields.io
-   badges, devicon images, and GitHub Readme Stats cards. Do not reformat it into plain
+   badges, devicon images, and GitHub stats cards. Do not reformat it into plain
    Markdown, reorder the design, or remove badges unless the owner asks.
 5. **Keep the context concise.** The next agent should be able to read this repository
    in a few minutes. Prefer updating the owning file over creating a new document.
@@ -76,6 +77,9 @@ llms.txt                           LLM-friendly index for this profile and repos
 CLAUDE.md                          Pointer for Claude Code
 GEMINI.md                          Pointer for Gemini CLI
 LICENSE                            MIT license
+.editorconfig                      Editor defaults (UTF-8, LF, final newline)
+.markdownlint.jsonc                Markdown lint configuration
+.gitignore                         Local artifacts and secrets kept out of Git
 .github/copilot-instructions.md    Pointer for GitHub Copilot
 .cursor/rules/profile.mdc          Pointer for Cursor
 docs/ai/README.md                  Index of the AI context set

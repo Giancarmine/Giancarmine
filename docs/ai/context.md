@@ -17,8 +17,7 @@ Last reviewed: **2026-11-08**.
 | Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
 | Role | I&O Platform Engineer at **Holcim EMEA Digital Center** |
 | GitHub company field | `@eits-lafargeholcim` |
-| Bio (live) | "Confused DevOps developer at @eits-lafargeholcim" |
-| Bio (proposed) | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
+| Bio | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
 | Experience | 8+ years in IT, per the profile README |
 | Website | <https://giancarmine.github.io/> |
 | LinkedIn | <https://www.linkedin.com/in/carmine-cuofano-271417124/> |

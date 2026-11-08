@@ -25,8 +25,7 @@ This repository is **not a software project**. It is the GitHub profile reposito
 | GitHub company field | `@eits-lafargeholcim` |
 | Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
 | Website | <https://giancarmine.github.io/> |
-| Bio (live) | "Confused DevOps developer at @eits-lafargeholcim" |
-| Bio (proposed) | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" — pending a GitHub token with `user` scope |
+| Bio | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
 | Certifications | Skillsoft badges in Ansible for DevOps, CompTIA IT Fundamentals, and Gemini for Technical Teams |
 | Focus | Cloud, DevOps, platform engineering, security, and open source |
 

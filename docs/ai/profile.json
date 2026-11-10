@@ -23,6 +23,25 @@
       "devto": "https://dev.to/el_giancar"
     }
   },
+  "about": [
+    "I'm an I&O Platform Engineer at Holcim EMEA Digital Center in Madrid, working within the Global Development Platform (GDP). I automate infrastructure and operations with Terraform, Ansible, AWS, Kubernetes, and GitLab CI/CD, with a focus on cloud, DevOps, and security.",
+    "My path here started in Java backend development and moved through DevOps into platform engineering: B.I.Strategy, Altran, Zeeker Solutions, zooplus, and now Holcim. Along the way I've worked on enterprise Java, business intelligence and data warehousing, e-commerce loyalty systems, and the migration from Marathon to Kubernetes.",
+    "I care about open source, continuous improvement, and documentation that makes systems easier to operate. I like removing manual work, keeping changes small and reviewable, and treating security as a gate rather than a checklist."
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "proficiency": "Native or bilingual"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Full professional"
+    },
+    {
+      "language": "English",
+      "proficiency": "Full professional"
+    }
+  ],
   "positions": [
     {
       "company": "Holcim EMEA Digital Center",
@@ -185,6 +204,7 @@
   "notes": [
     "This repository is a GitHub profile repository; README.md is the only rendered product.",
     "Positions, skills, and certifications were taken from the public fields of the owner's LinkedIn export, reviewed on 2026-11-10. Do not add private export fields.",
+    "Education is intentionally not published; do not infer degrees or institutions.",
     "Archived repositories are historical learning projects, not current best practice.",
     "If a project repository has its own AGENTS.md, that file takes precedence."
   ]

@@ -26,6 +26,8 @@ This repository is **not a software project**. It is the GitHub profile reposito
 | Career | B.I.Strategy (2016–2018) → Altran (2018–2020) → Zeeker Solutions (2020) → zooplus (2020–2023) → Holcim EMEA Digital Center (2023–present) |
 | GitHub company field | `@eits-lafargeholcim` |
 | Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
+| Languages | Italian (native), Spanish (full professional), English (full professional) |
+| Education | Intentionally not published; do not infer it |
 | Website | <https://giancarmine.github.io/> |
 | Bio | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
 | Certifications | Ten public LinkedIn badges: six IBM Hadoop/Scala (2017), GCP Essentials (Qwiklabs), and three Skillsoft badges — Ansible for DevOps, CompTIA IT Fundamentals: CIA Triad, and Gemini for Technical Teams |

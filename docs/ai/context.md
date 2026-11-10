@@ -1,8 +1,8 @@
 # Owner context
 
-Public-safe context about **Carmine Cuofano** for AI agents. Facts come from the
-public GitHub profile, this repository's `README.md`, and the repositories listed in
-[`repositories.md`](repositories.md). Anything inferred rather than stated is marked
+Public-safe context about **Carmine Cuofano** for AI agents. Facts come from the public
+GitHub and LinkedIn profiles, this repository's `README.md`, and the repositories listed
+in [`repositories.md`](repositories.md). Anything inferred rather than stated is marked
 **(inferred)**.
 
 Last reviewed: **2026-11-10**.
@@ -15,6 +15,8 @@ Last reviewed: **2026-11-10**.
 | GitHub | [`@Giancarmine`](https://github.com/Giancarmine) |
 | Handle note | It is `Giancarmine` (ends in **mine**). `giancarme` is not the account and returns 404. |
 | Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
+| Languages | Italian (native), Spanish (full professional), English (full professional) |
+| Education | Intentionally not published; do not infer it |
 | Role | I&O Platform Engineer at **Holcim EMEA Digital Center** (since Feb 2023) |
 | LinkedIn headline | GDP (Global Development Platform) - I&O Platform Engineer at Holcim EMEA Digital Center |
 | GitHub company field | `@eits-lafargeholcim` |
@@ -36,6 +38,22 @@ Platform / DevOps engineer with a Java backend background and 10+ years in IT. L
 headline: **GDP (Global Development Platform) - I&O Platform Engineer at Holcim EMEA
 Digital Center**. The public profile describes a focus on **cloud computing, DevOps, and
 security**, plus a strong preference for **open source** and **continuous improvement**.
+
+## LinkedIn About
+
+> I'm an I&O Platform Engineer at Holcim EMEA Digital Center in Madrid, working within
+> the Global Development Platform (GDP). I automate infrastructure and operations with
+> Terraform, Ansible, AWS, Kubernetes, and GitLab CI/CD, with a focus on cloud, DevOps,
+> and security.
+>
+> My path here started in Java backend development and moved through DevOps into platform
+> engineering: B.I.Strategy, Altran, Zeeker Solutions, zooplus, and now Holcim. Along the
+> way I've worked on enterprise Java, business intelligence and data warehousing,
+> e-commerce loyalty systems, and the migration from Marathon to Kubernetes.
+>
+> I care about open source, continuous improvement, and documentation that makes systems
+> easier to operate. I like removing manual work, keeping changes small and reviewable,
+> and treating security as a gate rather than a checklist.
 
 ## Experience (public LinkedIn profile)
 
@@ -172,11 +190,4 @@ Derived from the repository conventions:
 
 - Employer naming varies between "Holcim EMEA Digital Center" (README and LinkedIn) and
   `@eits-lafargeholcim` (GitHub company). Keep both, in their respective contexts.
-- The LinkedIn export contains no "About" summary: the `Summary` field and
-  `Profile Summary.csv` are both empty. The long-form self-description is still
-  unavailable; experience, skills, and certifications now come from the export.
-- The export has no education history (`Education.csv` is absent). Do not infer degrees
-  or institutions.
 - `open-cv` is currently an empty repository; the public CV source is not available.
-- Spoken languages are not stated publicly (`Languages.csv` is absent); do not assume
-  them.

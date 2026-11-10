@@ -20,13 +20,16 @@ This repository is **not a software project**. It is the GitHub profile reposito
 | --- | --- |
 | Name | Carmine Cuofano |
 | GitHub | [`@Giancarmine`](https://github.com/Giancarmine) — the handle ends in **mine**, not **me** |
-| Role | I&O Platform Engineer at Holcim EMEA Digital Center |
-| Experience | 8+ years in IT |
+| Role | I&O Platform Engineer at Holcim EMEA Digital Center (since Feb 2023) |
+| LinkedIn headline | GDP (Global Development Platform) - I&O Platform Engineer at Holcim EMEA Digital Center |
+| Experience | 10+ years in IT (since May 2016) |
+| Career | B.I.Strategy (2016–2018) → Altran (2018–2020) → Zeeker Solutions (2020) → zooplus (2020–2023) → Holcim EMEA Digital Center (2023–present) |
 | GitHub company field | `@eits-lafargeholcim` |
 | Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
 | Website | <https://giancarmine.github.io/> |
 | Bio | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
-| Certifications | Skillsoft badges in Ansible for DevOps, CompTIA IT Fundamentals, and Gemini for Technical Teams |
+| Certifications | Ten public LinkedIn badges: six IBM Hadoop/Scala (2017), GCP Essentials (Qwiklabs), and three Skillsoft badges — Ansible for DevOps, CompTIA IT Fundamentals: CIA Triad, and Gemini for Technical Teams |
+| Skill highlights | Terraform, Ansible, AWS, Kubernetes, GitLab CI/CD, Java, Kotlin, SQL, and data-warehousing tools |
 | Focus | Cloud, DevOps, platform engineering, security, and open source |
 
 Full context: [`docs/ai/context.md`](docs/ai/context.md).

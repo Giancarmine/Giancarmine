@@ -1,10 +1,11 @@
 {
-  "lastReviewed": "2026-11-08",
+  "lastReviewed": "2026-11-10",
   "identity": {
     "name": "Carmine Cuofano",
     "github": "Giancarmine",
     "handleNote": "Giancarmine ends in 'mine'; 'giancarme' is not the account",
     "headline": "I&O Platform Engineer at Holcim EMEA Digital Center",
+    "linkedinHeadline": "GDP (Global Development Platform) - I&O Platform Engineer at Holcim EMEA Digital Center",
     "location": "Madrid, Spain",
     "linkedinLocation": "Greater Madrid Metropolitan Area",
     "role": "I&O Platform Engineer",
@@ -12,7 +13,7 @@
     "githubCompany": "eits-lafargeholcim",
     "githubBio": "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer",
     "tagline": "Confused DevOps developer",
-    "experienceYears": "8+",
+    "experienceYears": "10+ (since May 2016)",
     "website": "https://giancarmine.github.io/",
     "publicLinks": {
       "linkedin": "https://www.linkedin.com/in/carmine-cuofano-271417124/",
@@ -22,6 +23,48 @@
       "devto": "https://dev.to/el_giancar"
     }
   },
+  "positions": [
+    {
+      "company": "Holcim EMEA Digital Center",
+      "title": "I&O Platform Engineer",
+      "start": "2023-02",
+      "end": null,
+      "location": "Madrid, Spain",
+      "highlights": ["Terraform", "Ansible", "AWS", "Kubernetes", "GitLab CI/CD"]
+    },
+    {
+      "company": "zooplus",
+      "title": "DevOps Developer",
+      "start": "2020-11",
+      "end": "2023-02",
+      "location": "Madrid, Spain",
+      "highlights": ["Java", "Kotlin", "Ktor", "Jenkins", "Terraform", "AWS", "Marathon to Kubernetes migration"]
+    },
+    {
+      "company": "Zeeker Solutions",
+      "title": "Programmatore java Backend Senior",
+      "start": "2020-01",
+      "end": "2020-10",
+      "location": null,
+      "highlights": []
+    },
+    {
+      "company": "Altran",
+      "title": "Java Developer",
+      "start": "2018-11",
+      "end": "2020-01",
+      "location": "Madrid, Spain",
+      "highlights": []
+    },
+    {
+      "company": "B.I.Strategy",
+      "title": "Java consultor",
+      "start": "2016-05",
+      "end": "2018-10",
+      "location": null,
+      "highlights": ["Java", "IBM DataStage", "Hadoop", "Hive", "SQL Server", "Teradata", "Oracle", "MySQL"]
+    }
+  ],
   "certifications": [
     {
       "name": "Gemini for Technical Teams",
@@ -65,6 +108,13 @@
     "open source",
     "continuous improvement"
   ],
+  "skills": {
+    "backend": ["Java", "J2EE Web Services", "EJB", "Hibernate", "SOAP", "REST", "JMS Queue", "Kotlin"],
+    "data": ["SQL", "PL/SQL", "Teradata", "SQL Server", "MySQL", "Data Warehouse", "Business Intelligence", "Database", "ETL"],
+    "frontend": ["JavaScript", "React.js", "AngularJS", "jQuery", "HTML", "CSS"],
+    "platformDevops": ["DevOps", "Kubernetes", "GitLab", "Ansible", "Terraform", "AWS"],
+    "languages": ["C", "C++"]
+  },
   "stack": {
     "cloud": ["AWS"],
     "containers": ["Docker", "Kubernetes", "Docker Compose"],
@@ -134,6 +184,7 @@
   },
   "notes": [
     "This repository is a GitHub profile repository; README.md is the only rendered product.",
+    "Positions, skills, and certifications were taken from the public fields of the owner's LinkedIn export, reviewed on 2026-11-10. Do not add private export fields.",
     "Archived repositories are historical learning projects, not current best practice.",
     "If a project repository has its own AGENTS.md, that file takes precedence."
   ]

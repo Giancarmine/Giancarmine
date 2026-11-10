@@ -1,8 +1,9 @@
 # Carmine Cuofano (@Giancarmine)
 
 > Public-safe context for AI agents about Carmine Cuofano, an I&O Platform Engineer in
-> Madrid focused on cloud, DevOps, platform engineering, and security. This repository is
-> his GitHub profile; it is not a software project.
+> Madrid (LinkedIn headline: GDP (Global Development Platform) - I&O Platform Engineer at
+> Holcim EMEA Digital Center). He focuses on cloud, DevOps, platform engineering, and
+> security. This repository is his GitHub profile; it is not a software project.
 
 The canonical agent contract is [AGENTS.md](AGENTS.md). Detailed context is in
 [docs/ai/](docs/ai/README.md).

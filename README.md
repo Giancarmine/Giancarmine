@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">I am Carmine Cuofano, an I&O Platform Engineer at Holcim EMEA Digital Center in Madrid, Spain. I have 8+ years of experience in the IT industry, with a focus on cloud computing, DevOps, platform engineering, and security.<br><br>I'm passionate about using technology to solve business problems. I am also a strong advocate for open source software and continuous improvement.<br><br>Here are some of the key highlights from my LinkedIn profile:<br><br>- 8+ years in IT, from DevOps Java developer to I&O Platform Engineer<br>- Focus on cloud computing, DevOps, platform engineering, and security<br>- Skillsoft badges in Ansible for DevOps, CompTIA IT Fundamentals, and Gemini for Technical Teams<br>- Open-source advocate and continuous-improvement enthusiast</p>
+<p align="left">I am Carmine Cuofano, a platform engineer in Madrid, Spain. My LinkedIn headline is <em>GDP (Global Development Platform) - I&O Platform Engineer at Holcim EMEA Digital Center</em>, and the short version of the road here is Java backend → DevOps → platform engineering.<br><br>Across 10+ years I have worked at B.I.Strategy, Altran, Zeeker Solutions, zooplus, and now Holcim. Today I automate infrastructure with Terraform, Ansible, AWS, Kubernetes, and GitLab CI/CD, with a focus on cloud, DevOps, and security.<br><br>I am an open-source advocate, a continuous-improvement enthusiast, and a strong believer in using technology to solve real business problems.</p>
 
 ###
 

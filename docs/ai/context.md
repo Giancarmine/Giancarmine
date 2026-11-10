@@ -5,7 +5,7 @@ public GitHub profile, this repository's `README.md`, and the repositories liste
 [`repositories.md`](repositories.md). Anything inferred rather than stated is marked
 **(inferred)**.
 
-Last reviewed: **2026-11-08**.
+Last reviewed: **2026-11-10**.
 
 ## Identity
 
@@ -15,10 +15,11 @@ Last reviewed: **2026-11-08**.
 | GitHub | [`@Giancarmine`](https://github.com/Giancarmine) |
 | Handle note | It is `Giancarmine` (ends in **mine**). `giancarme` is not the account and returns 404. |
 | Location | Madrid, Spain (LinkedIn: Greater Madrid Metropolitan Area) |
-| Role | I&O Platform Engineer at **Holcim EMEA Digital Center** |
+| Role | I&O Platform Engineer at **Holcim EMEA Digital Center** (since Feb 2023) |
+| LinkedIn headline | GDP (Global Development Platform) - I&O Platform Engineer at Holcim EMEA Digital Center |
 | GitHub company field | `@eits-lafargeholcim` |
 | Bio | "I&O Platform Engineer at Holcim EMEA Digital Center · Cloud, DevOps & security · Confused DevOps developer" |
-| Experience | 8+ years in IT, per the profile README |
+| Experience | 10+ years in IT (since May 2016) |
 | Website | <https://giancarmine.github.io/> |
 | LinkedIn | <https://www.linkedin.com/in/carmine-cuofano-271417124/> |
 | X / Twitter | [@el_giancar](https://twitter.com/el_giancar) |
@@ -31,13 +32,44 @@ a private email address to repository content.
 
 ## Professional summary
 
-Platform / DevOps engineer with a backend-developer background. The public profile
-describes a focus on **cloud computing, DevOps, and security**, plus a strong
-preference for **open source** and **continuous improvement**.
+Platform / DevOps engineer with a Java backend background and 10+ years in IT. LinkedIn
+headline: **GDP (Global Development Platform) - I&O Platform Engineer at Holcim EMEA
+Digital Center**. The public profile describes a focus on **cloud computing, DevOps, and
+security**, plus a strong preference for **open source** and **continuous improvement**.
 
-The career path visible on GitHub runs from Java/Android and Flutter learning projects
-and university coursework, through Spring Boot backends and Kotlin/Ktor services, to
-the current platform-engineering role.
+## Experience (public LinkedIn profile)
+
+| Period | Company | Title | Location |
+| --- | --- | --- | --- |
+| Feb 2023–present | Holcim EMEA Digital Center | I&O Platform Engineer | Madrid, Spain |
+| Nov 2020–Feb 2023 | zooplus | DevOps Developer | Madrid, Spain |
+| Jan 2020–Oct 2020 | Zeeker Solutions | Programmatore java Backend Senior | — |
+| Nov 2018–Jan 2020 | Altran | Java Developer | Madrid, Spain |
+| May 2016–Oct 2018 | B.I.Strategy | Java consultor | — |
+
+- **Holcim:** Terraform, Ansible, AWS, Kubernetes, and GitLab CI/CD; infrastructure as
+  code, configuration management, container orchestration, and delivery automation.
+- **zooplus:** Savings Plan and Discount Group projects in the Loyalty Discount area;
+  Java, Kotlin, Ktor, Jenkins, Terraform, AWS, Karate, JUnit, and Selenium; involved in
+  the migration from Marathon to Kubernetes.
+- **B.I.Strategy:** Java enterprise development plus web, business intelligence (IBM
+  DataStage), big data (HDFS, Hadoop, Hive), and databases (PostgreSQL, SQL Server,
+  Teradata, DB2, Oracle, MySQL), with clients including Poste Italiane, Teradata, and SIA.
+
+The Zeeker Solutions and Altran positions have no description on LinkedIn; do not invent
+detail for them.
+
+## Skills (LinkedIn)
+
+Grouped for readability; the order within each group follows the export.
+
+- **Backend / Java:** Java, J2EE Web Services, EJB, Hibernate, SOAP, REST, JMS Queue,
+  Kotlin.
+- **Data:** SQL, PL/SQL, Teradata, SQL Server, MySQL, Data Warehouse, Business
+  Intelligence, Database, ETL.
+- **Frontend:** JavaScript, React.js, AngularJS, jQuery, HTML, CSS.
+- **Platform / DevOps:** DevOps, Kubernetes, GitLab, Ansible, Terraform, AWS.
+- **Languages:** C, C++.
 
 ## What he works on
 
@@ -140,8 +172,11 @@ Derived from the repository conventions:
 
 - Employer naming varies between "Holcim EMEA Digital Center" (README and LinkedIn) and
   `@eits-lafargeholcim` (GitHub company). Keep both, in their respective contexts.
-- LinkedIn hides the full "About" text and detailed experience from guests. This file
-  reflects the public headline, company, location, and certifications; update it if the
-  owner provides the full summary.
+- The LinkedIn export contains no "About" summary: the `Summary` field and
+  `Profile Summary.csv` are both empty. The long-form self-description is still
+  unavailable; experience, skills, and certifications now come from the export.
+- The export has no education history (`Education.csv` is absent). Do not infer degrees
+  or institutions.
 - `open-cv` is currently an empty repository; the public CV source is not available.
-- Spoken languages are not stated publicly; do not assume them.
+- Spoken languages are not stated publicly (`Languages.csv` is absent); do not assume
+  them.

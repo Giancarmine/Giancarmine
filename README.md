@@ -1,10 +1,10 @@
-###
+<h3></h3>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Giancarmine.Giancarmine"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Giancarmine.Giancarmine" alt="Profile visitors"  />
 </div>
 
-###
+<h3></h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carmine-cuofano-271417124/" target="_blank">
@@ -27,103 +27,103 @@
   </a>
 </div>
 
-###
+<h3></h3>
 
 <h1 align="center">Eat Spaghetti.<br>DON'T do Spaghetti.<br>🍝</h1>
 
-###
+<h3></h3>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+<h3></h3>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJsZTQ5bHg4cGhnbXR3aDJiYnZ4NTlocXp4djUwenphZnBvdXQ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJsZTQ5bHg4cGhnbXR3aDJiYnZ4NTlocXp4djUwenphZnBvdXQ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Spaghetti code animation"  />
 </div>
 
-###
+<h3></h3>
 
 <p align="left">I am Carmine Cuofano, a platform engineer in Madrid, Spain. My LinkedIn headline is <em>GDP (Global Development Platform) - I&O Platform Engineer at Holcim EMEA Digital Center</em>, and the short version of the road here is Java backend → DevOps → platform engineering.<br><br>Across 10+ years I have worked at B.I.Strategy, Altran, Zeeker Solutions, zooplus, and now Holcim. Today I automate infrastructure with Terraform, Ansible, AWS, Kubernetes, and GitLab CI/CD, with a focus on cloud, DevOps, and security.<br><br>I am an open-source advocate, a continuous-improvement enthusiast, and a strong believer in using technology to solve real business problems.</p>
 
-###
+<h3></h3>
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+<h3></h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-###
+<h3></h3>
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+<h3></h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Giancarmine&theme=dracula&hide_border=false&locale=en" height="200" alt="streak stats"  />
